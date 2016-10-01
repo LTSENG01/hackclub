@@ -1,1 +1,1 @@
-# hackclub
+# hackclub-projects
